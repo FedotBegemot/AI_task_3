@@ -5,11 +5,11 @@
 
 NAME:  2004 New Car and Truck Data
 TYPE:  Sample
-SIZE:  428 observations, 19 variables
+SIZE:  410 observations, 19 variables
 
 
 DESCRIPTIVE ABSTRACT:
-Specifications are given for 428 new vehicles for the 2004 year. The variables recorded include price, measurements 
+Specifications are given for 410 new vehicles for the 2004 year. The variables recorded include price, measurements 
 relating to the size of the vehicle, and fuel efficiency.
 
 
