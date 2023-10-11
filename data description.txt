@@ -1,0 +1,22 @@
+   0	Vehicle Name
+ 1	Sports Car? (1=yes, 0=no)
+ 2	Sport Utility Vehicle? (1=yes, 0=no)
+ 3	Wagon? (1=yes, 0=no)
+ 4	Minivan? (1=yes, 0=no)
+ 5	Pickup? (1=yes, 0=no)
+ 6	All-Wheel Drive? (1=yes, 0=no)
+ 7	Rear-Wheel Drive? (1=yes, 0=no)
+ 8	Suggested Retail Price, what the manufacturer thinks the 
+        	vehicle is worth, including adequate profit for the
+		automaker and the dealer (U.S. Dollars)
+ 9 	Dealer Cost (or "invoice price"), what the dealership pays/1
+		the manufacturer (U.S. Dollars)
+ 10	Engine Size (liters)
+ 11	Number of Cylinders (=-1 if rotary engine)
+ 12	Horsepower
+ 13	City Miles Per Gallon
+ 14	Highway Miles Per Gallon
+ 15	Weight (Pounds)
+ 16	Wheel Base (inches)
+ 17	Length (inches)
+ 18	Width (inches)
